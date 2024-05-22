@@ -7,9 +7,9 @@ The technology stack for this application includes Vue.js, JavaScript, and Axios
 I have also hosted the application on Netlify. You can check it out at https://country-details-explorer.netlify.app/
 
 # Command to setup
-npm install
-npm run dev  # to start the application
-npm i Axios  # in case it is not installed in your editor
+npm install <br>
+npm run dev  # to start the application <br>
+npm i Axios  # in case it is not installed in your editor <br>
 
 # Application Preview
 Note: We are using the free API available at https://restcountries.com/v3.1 for fetching country details. As it is a free public API, it might take some time to load the data or may not provide accurate data immediately. I have encountered this issue before.
