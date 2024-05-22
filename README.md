@@ -27,10 +27,10 @@ Note: For some countries, the search results may not display the desired country
 
 Specific filtered region countries:-
 
-<img width="959" alt="image" src="https://github.com/Shubham-46/CountryExplorer/assets/76684258/1df4f74f-a92c-4a82-81ca-929b1e1b9623"> <br>
+<img width="955" alt="image" src="https://github.com/Shubham-46/CountryExplorer/assets/76684258/a5ab2fd9-ed99-4814-86e3-823ebc30ffb3"> <br>
 
 
-More Information about specific country:-
+More Information about specific countries:-
 
 <img width="954" alt="image" src="https://github.com/Shubham-46/CountryExplorer/assets/76684258/9fa6d005-9f94-4e94-b814-e82f665d9685">
 
